@@ -1,8 +1,14 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hello,+There!;I'm+António+Morais....;Welcome!+💫&center=true&size=30">
+  </a>
+</h1>
+
 <div align="center">
 
   ## :arrow_down: About me :arrow_down:
   
-  <p align="justify">I am a third-year student at IST, Lisbon, studying Electrical and Computer Engineering. Challenges excite me, and I thrive on overcoming them. I enjoy learning and collaborating with others. I am always striving to improve personally and professionally. My interests include Robotics, Control, Computer Architecture and Programming..</p>
+  <p align="justify">I am a third-year student at IST, Lisbon, studying Electrical and Computer Engineering. Challenges excite me, and I thrive on overcoming them. I enjoy learning and collaborating with others. I am always striving to improve personally and professionally. My interests include Robotics, Control, Computer Architecture and Programming.</p>
   
   ## :dart: My Skills :dart:
   
