@@ -9,7 +9,10 @@
   <h2> :arrow_down: About me :arrow_down: </h2>
   
   <p align="justify">
-    I am a third-year student at IST, Lisbon, studying Electrical and Computer Engineering. Challenges excite me, and I thrive on overcoming them. I enjoy learning and collaborating with others. I am always striving to improve personally and professionally. My interests include Robotics, Control, Computer Architecture, and Programming.
+    Currently a MSc student in Electrical and Computer Engineering at Instituto Superior Técnico, with a strong interest in Robotics, Artificial Intelligence, Data Science and Computer Systems.
+  </p>
+  <p align="justify">
+    During my bachelor's degree and internship experience, I have primarily gained experience with programming languages such as C, Python, and MATLAB, as well as with ROS and Git.
   </p>
   
   <a href="https://github.com/Moraisgit/Moraisgit/raw/main/Files/Resume.pdf" target="_blank">
