@@ -28,10 +28,6 @@
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img src="https://streak-stats.demolab.com?user=Moraisgit&theme=radical&hide_border=true&background=transparent" alt="GitHub Streak" />
   </a>
-
-  <a href="https://github.com/Moraisgit">
-    <img src="https://ghchart.rshah.org/2196f3/Moraisgit" alt="GitHub Contribution Board" />
-  </a>
   
   <h2> :computer: Contact me :computer: </h2>
   
